@@ -6,9 +6,14 @@
         "Allowoffline": true
     },
     {
-        "device_id": "dfb3cde2fa24fc89",
-        "key": "PogiMoNico",
-        "expirydate": "15-11-2025",
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    },    
+    {
+        "device_id": "dfb3cde2fa24fc89",
+        "key": "Pogi",
+        "expirydate": "15-11-2026",
+        "Allowoffline": false
 ]
